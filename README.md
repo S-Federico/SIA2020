@@ -1,2 +1,2 @@
 # SIA2020
-Cartella per gli esercizi di Sistemi Informativi Aziendali e prova di github
+Uso questa repo per gli esercizi di Sistemi Informativi Aziendali e provare un po' github
