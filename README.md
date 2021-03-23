@@ -1,2 +1,2 @@
 # SIA2020
-Cartella per gli esercizi di Sistemi Informativi Aviendali e prova di github
+Cartella per gli esercizi di Sistemi Informativi Aziendali e prova di github
